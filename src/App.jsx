@@ -112,7 +112,7 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <h1>Aplikasi Analisis dan Prediksi</h1>
+        <h1>Aplikasi Prediksi Tingkat Pendidikan di Indonesia</h1>
       </header>
       <main>
         <div className="filters">
