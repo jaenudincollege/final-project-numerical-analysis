@@ -13,7 +13,6 @@ import {
 } from "chart.js";
 import "./App.css";
 
-// Register chart components
 ChartJS.register(
   CategoryScale,
   LinearScale,
